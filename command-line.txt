@@ -2,7 +2,7 @@ What is the command that displays your current working directory?
 your_answer = pwd
 
 What is the command to list all of the files and directories in your current working directory?
-your_answer = l
+your_answer = l or dir
 
 What is the command to move the image of the dirty puppy into the bath tub?
 your_answer = mv dirty_puppy.jpg bathtub
